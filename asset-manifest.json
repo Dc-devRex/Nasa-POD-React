@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nasa-POD-React/static/css/main.f111bb48.chunk.css",
+    "main.js": "/Nasa-POD-React/static/js/main.ce817a02.chunk.js",
+    "main.js.map": "/Nasa-POD-React/static/js/main.ce817a02.chunk.js.map",
+    "runtime-main.js": "/Nasa-POD-React/static/js/runtime-main.9b38bcb6.js",
+    "runtime-main.js.map": "/Nasa-POD-React/static/js/runtime-main.9b38bcb6.js.map",
+    "static/js/2.746aba70.chunk.js": "/Nasa-POD-React/static/js/2.746aba70.chunk.js",
+    "static/js/2.746aba70.chunk.js.map": "/Nasa-POD-React/static/js/2.746aba70.chunk.js.map",
+    "static/js/3.13378d3e.chunk.js": "/Nasa-POD-React/static/js/3.13378d3e.chunk.js",
+    "static/js/3.13378d3e.chunk.js.map": "/Nasa-POD-React/static/js/3.13378d3e.chunk.js.map",
+    "index.html": "/Nasa-POD-React/index.html",
+    "static/css/main.f111bb48.chunk.css.map": "/Nasa-POD-React/static/css/main.f111bb48.chunk.css.map",
+    "static/js/2.746aba70.chunk.js.LICENSE.txt": "/Nasa-POD-React/static/js/2.746aba70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b38bcb6.js",
+    "static/js/2.746aba70.chunk.js",
+    "static/css/main.f111bb48.chunk.css",
+    "static/js/main.ce817a02.chunk.js"
+  ]
+}
